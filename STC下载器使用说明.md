@@ -6,7 +6,7 @@ http://www.stcmcudata.com/
 ![image](https://user-images.githubusercontent.com/43512109/181432169-9507ac98-f9a3-4fcd-8f59-7afe081ee6e1.png)
 # 一.使用说明
 ## 1.先将软件按照如下所示修改
-- 1：单片机的芯片
+- 1：单片机芯片型号的选择
 - 2：串口的选择
 - 3：波特率的选择
 - 4：下载程序的设置
