@@ -4,14 +4,14 @@
 [Github官方](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # 2.解决Github冲突
- [Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/main/%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81.md)
+ [Github自建库](解决冲突.md)
 
 # 3.STC下载器使用说明
- [Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/main/STC%E4%B8%8B%E8%BD%BD%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+ [Github自建库](STC下载器使用说明.md)
 
 # 4.Modbus Poll使用手册
-[Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
+[Github自建库](Modbus Poll使用手册.md)
 
 # 5.Keil软件使用说明
-[Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/main/Keil%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+[Github自建库](Keil软件使用说明.md)
 
