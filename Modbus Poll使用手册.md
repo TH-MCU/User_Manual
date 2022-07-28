@@ -32,3 +32,5 @@
 ## 显示标题
 
 ## 破解
+### 点击 `Connection -> Connect and enter key`
+    输入破解码 5A5742575C5D391A17627B6C010350
