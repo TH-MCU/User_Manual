@@ -1,5 +1,6 @@
 # Modbus Poll使用手册
 ## 链接
+https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll.zip
 ### 1.点击`Connection -> Connect `。按照如下设置（链接单片机后，软件自动选择，也可以手动选择。）
 | 按钮 | 
 | -----|
