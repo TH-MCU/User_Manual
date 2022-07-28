@@ -26,7 +26,7 @@ https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll.zip
 ![image](https://user-images.githubusercontent.com/43512109/181444832-c62495de-75e2-4560-a682-c133ad7068e5.png)
 
 
-## Real Time Charting
+## Real Time Charting(实时图表)
 [官方教程](https://www.modbustools.com/poll_chart.html)
 
 ## 导出Excel数据
