@@ -1,5 +1,5 @@
 # 下载Keil
-[keil官网](https://www.keil.com/download/product/),下载这俩文件即可（需要科学上网）
+[keil官网](https://www.keil.com/download/product/),下载这俩文件即可（可能需要科学上网）
 ![image](https://user-images.githubusercontent.com/43512109/181462172-2de690b2-af45-4b1b-8068-9985f490175b.png)
 ```
 // 安装目录Tool文件最后一段添加以下内容：【Path中改成你的目录X:\X\C51】
