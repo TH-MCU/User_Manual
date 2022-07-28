@@ -1,6 +1,10 @@
 # Modbus Poll使用手册
 ## 软件下载链接
 https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll.zip
+
+## 标准格式
+https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus_poll_%E6%A0%87%E5%87%86%E6%A0%BC%E5%BC%8F.mbp
+
 ### 1.点击`Connection -> Connect `。按照如下设置（链接单片机后，软件自动选择，也可以手动选择。）
 | 按钮 | 
 | -----|
@@ -20,7 +24,7 @@ https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll.zip
 | Address  | 从1开始显示 |
 | Quantity  | 显示的数据有xx个 |
 | Scan Rate  | 每隔1000ms去通讯/扫描一次 |
-| Fit to Quantity  | 切换行和列 |
+| Fit to Quantity  | 适合的行数 |
 | PLC Address（Base 1）  | PLC那里从1开始，而不是从0开始 |
 
 ![image](https://user-images.githubusercontent.com/43512109/181444832-c62495de-75e2-4560-a682-c133ad7068e5.png)
@@ -32,8 +36,6 @@ https://github.com/TongHaiMCU/User_Manual/blob/main/Modbus%20Poll.zip
 ## 导出Excel数据
 `Setup -> Excel Log` 。`rate`是`1s`一组数。`10000`个`logs`是记录`10000组`数据。
 ![image](https://user-images.githubusercontent.com/43512109/181456756-09158ce9-092d-4045-8b52-0b4665e49578.png)
-
-## 显示标题
 
 
 ## 破解
