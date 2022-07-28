@@ -34,7 +34,7 @@ http://www.stcmcudata.com/
 ![image](https://user-images.githubusercontent.com/43512109/181432471-c3a84bc8-090a-436d-b5c5-98bb7880fe89.png)
 
 # 二.注意事项及出现的问题
-## 1.下载失败
+## 1.下载失败shabi
 - 看看`USB下载器`与`单片机`的下载口接的对不对？
 - `USB下载器`是不是坏了？
 - 一开始所有`开关`没关闭？
