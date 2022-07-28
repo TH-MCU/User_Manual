@@ -7,7 +7,7 @@ http://www.stcmcudata.com/
 # 一.使用说明
 ## 1.先将软件按照如下所示修改
 - 1：单片机单片机的芯片
-- 2：串口
+- 2：串口的选择
 - 3：波特率的选择
 - 4：下载程序的设置
 ![image](https://user-images.githubusercontent.com/43512109/181432313-fa10049d-ae68-48c7-92fb-dec5e78045fe.png)
