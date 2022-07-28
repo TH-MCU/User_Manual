@@ -11,3 +11,6 @@
 
 # 4.Modbus Poll使用手册
 [Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/2946437c32c71bba27e956ef5863f6a8c924fe29/Modbus%20Poll%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
+
+# 5.Keil软件使用说明
+[Github自建库](https://github.com/TongHaiMCU/User_Manual/blob/764dc83e2f95885d14504a7480b1f060684fb25f/Keil%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
