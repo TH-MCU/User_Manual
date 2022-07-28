@@ -26,9 +26,13 @@
 
 
 ## Real Time Charting
+[官方教程](https://www.modbustools.com/poll_chart.html)
 
 ## 导出Excel数据
+`Setup -> Excel Log` 。`rate`是`1s`一组数。`10000`个`logs`是记录`10000组`数据。
+![image](https://user-images.githubusercontent.com/43512109/181456756-09158ce9-092d-4045-8b52-0b4665e49578.png)
 
 ## 显示标题
+
 
 ## 破解
